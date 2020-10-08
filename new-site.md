@@ -1,0 +1,3 @@
+# Another point of view
+
+This a summary of ...
